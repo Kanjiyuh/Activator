@@ -9,6 +9,6 @@ I completely believe in full open source programs. This app is pretty much my fi
 
 # Installaion
 
-Just download the .exe and place it wherever you'd like and just run the .exe. It will pretty much do everthing for you.
+Just download the [.exe](https://github.com/Kanjiyuh/Activator/releases) and place it wherever you'd like and just run the .exe. It will pretty much do everthing for you.
 OR
 If you downloaded the source, you can run the script without any compilation as a batch file.
